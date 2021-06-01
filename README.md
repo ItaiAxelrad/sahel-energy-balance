@@ -1,10 +1,3 @@
----
-title: Effects of Land Surface Degradation on Surface Water and Energy Balances
-date: 2018-06-15
-image: 'uploads/image1.png'
-tags: ['remote', 'sensing', 'land', 'surface', 'climate', 'water']
----
-
 # Effects of Land Surface Degradation on Surface Water and Energy Balances
 
 This study aims to test the effects of land surface degradation on surface water and energy balances in the Sahel. The control vegetation type used consists of shrubs with ground cover (SEBEX Data), while the experimental vegetation was changed to a degraded vegetation type of shrub with bare soil (Type 9 Data). The results indicate a large increase in the sensible heat flux, and significant changes in the water balance that can mostly be attributed to the evapotranspiration properties.
